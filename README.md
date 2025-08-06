@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Minhaj Sahil
 
-<!--
-**MInhajs3/MInhajs3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a high school student passionate about technology, programming, and self-improvement. I'm currently learning how to use Git and GitHub to build, share, and collaborate on coding projects.
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- Master Git and GitHub
+- Collaborate with others on coding projects
+- Build a portfolio to showcase my skills and growth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Hobbies & Interests
+- ⚽ Playing sports (especially soccer)
+- 🎮 Gaming & exploring new tech
+- 💪 Fitness & going to the gym
+- 📖 Reading and learning new things
+- 🎧 Listening to Drake & other music
+
+---
+
+## 🎓 Education
+- 📍 Robert H. Goddard High School, Ozone Park, NY
+- Anticipated Graduation: June 2026
+- GPA: 3.6 | Member of National Honor Society
+
+## 🧠 Experience
+- 🖥️ Web design using HTML/CSS and Canva
+- 🧪 Projects in AP Computer Science Principles
+- 🎓 Dawah Coordinator in MSA Club (organizing events & Islamic programs)
+
+---
+
+## 🔗 Connect With Me
+- Roblox.com is my favortie app
+- Email: Minhajsahil610@gmail.com
+
